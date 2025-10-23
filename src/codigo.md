@@ -1,1 +1,1 @@
-Rama para le generacion del codigo de la historia de usuario: HU-07
+Rama para le generacion del codigo de la historia de usuario: HU-01
